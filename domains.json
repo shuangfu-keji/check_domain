@@ -1,9 +1,9 @@
 {
     "api_domains": [
-        "http:\/\/ceshi1.tyuir687yu.com:9999",
-        "http:\/\/ceshi2.tyuir687yu.com:9999",
-        "http:\/\/156.245.25.220:9999"
+        "https:\/\/ceshi2.tyuir687yu.com",
+        "http:\/\/156.245.25.220:28888",
+        "http:\/\/156.245.25.220:2888"
     ],
     "h5_domains": [],
-    "updated_at": "2025-07-06 14:10:31"
+    "updated_at": "2025-07-09 19:41:28"
 }
